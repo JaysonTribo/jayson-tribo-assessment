@@ -14,6 +14,7 @@ public/content/mu-plugins/*
 # If you have a plugin, theme, or mu-plugin that you really do want to put into
 # version control, add an exception here. Exceptions will look like this:
 #   !public/content/plugins/plugin-folder
+!public/content/plugins/jayson-tribo-plugin
 !public/content/plugins/index.php
 !public/content/themes/index.php
 !public/content/mu-plugins/index.php
